@@ -11,16 +11,16 @@ from aiogram.filters import Command
 from aiogram.client.default import DefaultBotProperties
 
 # === Configuration ===
-TOKEN = "7888945736:AAFlm6gY3Ir6qvxGp90XaWd536TwPfNCItI"
-ADMIN_IDS = [5193826370]
+TOKEN = "7512998866:AAHhZzebTh4L7sQ9WgPNzewtFk0vUGRGj2U"
+ADMIN_IDS = [5317827318]
 AUTHORIZED_USERS = set(ADMIN_IDS)
 VPS_LIST = [
-    ("stom_0", "144.202.50.24", "Stom@0000"),
-    ("stom_0", "155.138.192.246", "Stom@0000"),
-    ("stom_0", "45.77.189.11", "Stom@0000"),
-    ("stom_0", "66.135.11.203", "Stom@0000"),	
+    ("stom_0", "45.32.195.85", "Stom@0000"),
+    ("stom_0", "137.220.59.132", "Stom@0000"),
+    ("stom_0", "45.63.69.93", "Stom@0000"),
+    ("stom_0", "45.76.250.27", "Stom@0000"),	
 ]
-DEFAULT_THREADS = 900
+DEFAULT_THREADS = 1200
 user_cooldowns = {}
 ongoing_attack = False
 
